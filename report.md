@@ -5,7 +5,7 @@
 На тестирование затрачено: 1h
 
 В результате тестирования выявлены следующие дефекты:
-* [Bug 1](https://github.com/Shkuratko/Money-Transfer/issues/2)
+* [Bug 1](https://github.com/Shkuratko/Money-Transfer/issues/3)
 
 ## Описание процесса тестирования
 
